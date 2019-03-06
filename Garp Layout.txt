@@ -1,5 +1,6 @@
 Alpha Features:
 
+
 1.0:  Move, Dungeon Map (one contiguous map), free roam, attack (melee and ranged, switch),
 enemies, collision, sprites, center screen on character, top down, decent sized map,
 co-op/sp, 
